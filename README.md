@@ -13,7 +13,7 @@
 
 <br/>
 
-### <div align=center>Tech Stack</div>
+### <div align=center>:computer: Tech Stack :computer:</div>
 <div align=center><a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a></div>
@@ -27,6 +27,6 @@
 
 <br/>
 
-### <div align=center>Cowork Tools</div>
+### <div align=center>:busts_in_silhouette: Cowork Tools :busts_in_silhouette:</div>
 <div align=center><a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a></div>
